@@ -1,3 +1,0 @@
-# myProject
-study
-hello-world
